@@ -3,3 +3,5 @@ This repository will contain the solutions to the ten projects proposed in the b
 
 ## Project 1: Instant Markup
 Add some formatting to a plain-text file.
+
+## Project 2: Painting a Pretty Picture
